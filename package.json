@@ -1,0 +1,32 @@
+{
+  "name": "what-ip",
+  "description": "Simple module for getting the IP address of a request",
+  "main": "ip.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/markthethomas/incoming-ip.git"
+  },
+  "keywords": [
+    "ip",
+    "express",
+    "node",
+    "http",
+    "web",
+    "api",
+    "address",
+    "server"
+  ],
+  "author": "Mark Thomas <mark@ifelse.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markthethomas/incoming-ip/issues"
+  },
+  "homepage": "https://github.com/markthethomas/incoming-ip#readme",
+  "devDependencies": {
+    "semantic-release": "^4.3.5"
+  }
+}
