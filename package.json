@@ -1,9 +1,9 @@
 {
+  "version": "0.1.0",
   "name": "what-ip",
   "description": "Simple module for getting the IP address of a request",
   "main": "ip.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "repository": {
