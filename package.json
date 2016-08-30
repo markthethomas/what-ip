@@ -2,7 +2,7 @@
   "version": "0.2.0",
   "name": "what-ip",
   "description": "Simple module for getting the IP address of a request",
-  "main": "ip.js",
+  "main": "lib/ip.js",
   "scripts": {
     "semantic-release": "semantic-release pre && npm publish && semantic-release post",
     "transpile": "babel ./src --babelrc=true --compact='true' --minified --no-comments --out-dir lib",
