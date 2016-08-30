@@ -1,5 +1,5 @@
 {
-  "version": "0.2.0",
+  "version": "0.3.0",
   "name": "what-ip",
   "description": "Simple module for getting the IP address of a request",
   "main": "lib/ip.js",
